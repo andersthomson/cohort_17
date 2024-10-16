@@ -1,0 +1,8 @@
+{
+  "default_path": "/repo/ehrlcuj/cohort_17",
+  "dataset_file_names": [
+        "dataset_1_radioTemperatures_20210303.csv",
+        "dataset_2_powerClass_20210303.csv",
+        "dataset_3_radioId_20210303.csv"
+  ]
+}
